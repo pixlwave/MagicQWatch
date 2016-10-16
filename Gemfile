@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gem 'rake'
 gem 'ib'
-gem 'crep', github: 'digitalfx/crep'
-gem 'DataStore', github: 'digitalfx/DataStore'
+gem 'crep', github: 'pixlwave/crep'
+gem 'DataStore', github: 'pixlwave/DataStore'
